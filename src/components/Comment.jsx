@@ -25,7 +25,7 @@ const H3 = styled.h3`
 `;
 const P = styled.p`
     font-size: 14px;
-    width: 460px;
+    width: 480px;
     margin: 0; 
     display: flex;
     align-items: center;

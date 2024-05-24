@@ -19,7 +19,7 @@ const Button = styled.button`
     color: blue;
     font-size: 13px;
     background-color: #ffffff;
-    border: 1px solid skyblue;
+    border: white;
     border-radius: 10px;
     height: 30px;
 `;
