@@ -9,7 +9,7 @@ import styled from "styled-components";
 const Wrapper = styled.div`
     display: flex;
     flex-direction: row;
-    width: 65%;
+    width: 45%;
     margin-bottom: 10px;
 `;
 const WrapperRow = styled.div`
@@ -25,7 +25,7 @@ const H3 = styled.h3`
 `;
 const P = styled.p`
     font-size: 14px;
-    width: 700px;
+    width: 460px;
     margin: 0; 
     display: flex;
     align-items: center;

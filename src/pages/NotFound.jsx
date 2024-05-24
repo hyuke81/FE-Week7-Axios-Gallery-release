@@ -7,7 +7,7 @@ const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
     align-items: center;
-  margin-top: 13%;
+  margin-top: 10%;
 `;
 const P = styled.h3`
   font-size: 15px;

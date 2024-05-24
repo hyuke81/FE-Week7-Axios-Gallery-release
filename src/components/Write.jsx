@@ -8,7 +8,7 @@ const Wrapper = styled.div`
     display: flex;
     flex-direction: row;
     align-items: left;
-    width: 65%;
+    width: 45%;
 `;
 const Input = styled.input`
     width: 95%;

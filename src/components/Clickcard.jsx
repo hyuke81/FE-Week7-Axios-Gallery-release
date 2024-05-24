@@ -10,7 +10,7 @@ const Wrapper = styled.div`
     flex-direction: column;
     display: flex;
     align-items: left;
-    width: 65%;
+    width: 45%;
     line-height: 0;
 `;
 const H3 = styled.h3`
@@ -25,8 +25,8 @@ const Pcom = styled.p`
     color: gray;
 `;
 const Img = styled.img`
-    width: 65%;
-    height: 65%;
+    width: 45%;
+    height: 70%;
     margin-top: 10px;
     margin-bottom: 20px;
 `;
