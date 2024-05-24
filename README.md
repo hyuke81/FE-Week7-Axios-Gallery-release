@@ -6,15 +6,17 @@ https://github.com/hyuke81/FE-Week7-Axios-Gallery-release/assets/163503680/f6943
 
 Home
 - Profile
-  -Postcount
+ - Postcount
 - Banner
-  -Card
+  - Card
+  
 Detail
 - Clickcard
   - Counttext
 - Write
 - Comment
-  -Delete
+  - Delete
+
 Notfound
 
 여러 이미지 중 하나를 클릭하면 상세한 이미지 정보를 확인하는 창 부분에서 시간이 많이 소요 되었습니다..
