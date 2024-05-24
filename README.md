@@ -1,4 +1,4 @@
 
+https://github.com/hyuke81/FE-Week7-Axios-Gallery-release/assets/163503680/3398295d-3fec-43be-8ef2-37393e0ac360
 
-Uploading React App - Chrome 2024-05-25 03-39-02.mp4…
 
